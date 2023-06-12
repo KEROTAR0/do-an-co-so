@@ -20,7 +20,7 @@
                             </ul>
                             <div class="card-body">
                                 <a href="/Tour/FestivalHoa" class="card-link">Xem</a>
-                                <a href="https://zoomtravel.vn/tour-du-lich-festival-hoa-da-lat-2019.html" class="card-link">Đặt tour</a>
+                                <a href="#" class="card-link">Đặt tour</a>
                             </div>
                         </div>
                     </div>                    
@@ -38,7 +38,7 @@
                                 <li class="list-group-item">Khách sạn: ⭐⭐</li>
                             </ul>
                             <div class="card-body">
-                                <a href="#" class="card-link">Xem</a>
+                                <a href="/Tour/DalatSanMay" class="card-link">Xem</a>
                                 <a href="#" class="card-link">Đặt tour</a>
                             </div>
                         </div>
@@ -56,7 +56,7 @@
                                 <li class="list-group-item">Khách sạn: ⭐⭐</li>
                             </ul>
                             <div class="card-body">
-                                <a href="#" class="card-link">Xem</a>
+                                <a href="/Tour/DuLichDaLatNgamHoa" class="card-link">Xem</a>
                                 <a href="#" class="card-link">Đặt tour</a>
                             </div>
                         </div>

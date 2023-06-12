@@ -41,7 +41,16 @@ const routes = [
         name: 'festivalHoa',
         component: () => import('../Tour/FestivalHoa.vue')
     },
-
+    {
+        path:'/Tour/DalatSanMay',
+        name: 'DalatSanMay',
+        component: () => import('../Tour/DalatSanMay.vue')
+    },
+    {
+        path:'/Tour/DuLichDaLatNgamHoa',
+        name: 'DuLichDaLatNgamHoa',
+        component: () => import('../Tour/DuLichDaLatNgamHoa.vue')
+    },
 ]
 
 const router = createRouter({
