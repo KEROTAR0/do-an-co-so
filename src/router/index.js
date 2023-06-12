@@ -51,6 +51,36 @@ const routes = [
         name: 'DuLichDaLatNgamHoa',
         component: () => import('../Tour/DuLichDaLatNgamHoa.vue')
     },
+    {
+        path:'/Tour/TaDungDalat',
+        name: 'TaDungDalat',
+        component: () => import('../Tour/TaDungDalat.vue')
+    },
+    {
+        path:'/Tour/DLHoaSonDienTrang',
+        name: 'DLHoaSonDienTrang',
+        component: () => import('../Tour/DLHoaSonDienTrang.vue')
+    },
+    {
+        path:'/Tour/DL_NhaTrang30/4-1/5',
+        name: 'DL_NhaTrang30415',
+        component: () => import('../Tour/DL_NhaTrang30415.vue')
+    },
+    {
+        path:'/Tour/HanhHuongBaoLoc-DaLat',
+        name: 'HanhHuongBL_DL',
+        component: () => import('../Tour/HanhHuongBL_DL.vue')
+    },
+    {
+        path:'/Tour/BaoLocThapCanhChua',
+        name: 'BaoLocThapCanhChua',
+        component: () => import('../Tour/BaoLocThapCanhChua.vue')
+    },
+    {
+        path:'/Tour/DaLatTour4ngay3dem',
+        name: 'DaLatTour4ngay3dem',
+        component: () => import('../Tour/DL4N3D30415.vue')
+    },
 ]
 
 const router = createRouter({

@@ -74,7 +74,7 @@
                                 <li class="list-group-item">Khách sạn: ⭐⭐</li>
                             </ul>
                             <div class="card-body">
-                                <a href="#" class="card-link">Xem</a>
+                                <a href="/Tour/TaDungDalat" class="card-link">Xem</a>
                                 <a href="#" class="card-link">Đặt tour</a>
                             </div>
                         </div>
@@ -92,7 +92,7 @@
                                 <li class="list-group-item">Khách sạn: ⭐⭐</li>
                             </ul>
                             <div class="card-body">
-                                <a href="#" class="card-link">Xem</a>
+                                <a href="/Tour/DL_NhaTrang30/4-1/5" class="card-link">Xem</a>
                                 <a href="#" class="card-link">Đặt tour</a>
                             </div>
                         </div>
@@ -110,7 +110,7 @@
                                 <li class="list-group-item">Khách sạn: ⭐⭐</li>
                             </ul>
                             <div class="card-body">
-                                <a href="#" class="card-link">Xem</a>
+                                <a href="/Tour/HanhHuongBaoLoc-DaLat" class="card-link">Xem</a>
                                 <a href="#" class="card-link">Đặt tour</a>
                             </div>
                         </div>
@@ -128,7 +128,7 @@
                                 <li class="list-group-item">Nhà nghỉ</li>
                             </ul>
                             <div class="card-body">
-                                <a href="#" class="card-link">Xem</a>
+                                <a href="/Tour/BaoLocThapCanhChua" class="card-link">Xem</a>
                                 <a href="#" class="card-link">Đặt tour</a>
                             </div>
                         </div>
@@ -146,7 +146,7 @@
                                 <li class="list-group-item">Khách sạn: ⭐⭐</li>
                             </ul>
                             <div class="card-body">
-                                <a href="#" class="card-link">Xem</a>
+                                <a href="/Tour/DLHoaSonDienTrang" class="card-link">Xem</a>
                                 <a href="#" class="card-link">Đặt tour</a>
                             </div>
                         </div>
@@ -164,7 +164,7 @@
                                 <li class="list-group-item">Khách sạn: ⭐⭐</li>
                             </ul>
                             <div class="card-body">
-                                <a href="#" class="card-link">Xem</a>
+                                <a href="/Tour/DaLatTour4ngay3dem" class="card-link">Xem</a>
                                 <a href="#" class="card-link">Đặt tour</a>
                             </div>
                         </div>
